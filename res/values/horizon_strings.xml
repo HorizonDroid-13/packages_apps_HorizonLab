@@ -56,4 +56,9 @@
     <string name="system_black_theme_title">Use Black theme</string>
     <string name="system_black_theme_summary">Force black background colors</string>
 
+    <!-- Screen off animation -->
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_crt" translatable="false">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
+
 </resources> 
