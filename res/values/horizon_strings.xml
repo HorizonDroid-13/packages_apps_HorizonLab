@@ -37,6 +37,9 @@
     <!-- Category: Misc-->
     <string name="category_misc_title">Miscellaneous</string>
 
+     <!-- Sub category -->
+    <string name="general_category">General</string>
+
     <!-- Category: Theme-->
     <string name="category_theme_title">Themes</string>
 
@@ -56,5 +59,9 @@
     <string name="screen_off_animation_title">Screen off animation</string>
     <string name="screen_off_animation_crt" translatable="false">CRT</string>
     <string name="screen_off_animation_scale">Scale</string>
+
+    <!-- Status bar - icon blocklist -->
+    <string name="status_bar_icons_title">Status bar icons</string>
+    <string name="status_bar_icons_summary">Choose which status bar icons can be shown</string>
 
 </resources> 
