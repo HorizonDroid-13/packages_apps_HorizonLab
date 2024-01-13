@@ -67,17 +67,6 @@
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
 
-    <!-- Edge light -->
-    <string name="edge_light_title">Edge light</string>
-    <string name="edge_light_summary">Light up the side edges of the screen on notification pulse</string>
-    <string name="edge_light_always_trigger_on_pulse_title">Always trigger on pulse</string>
-    <string name="edge_light_always_trigger_on_pulse_summary">Whether to show edge light whenever ambient display is shown and not just for notifications</string>
-    <string name="edge_light_repeat_animation_title">Repeat animation</string>
-    <string name="edge_light_repeat_animation_summary_on">Repeat until timeout</string>
-    <string name="edge_light_repeat_animation_summary_off">Show only once</string>
-    <string name="edge_light_color_mode_title">Edge light color mode</string>
-    <string name="enable">Enable</string>
-
     <!-- Colored QS notification icons -->
     <string name="qs_colored_icons_title">Colored QS notification icons</string>
     <string name="qs_colored_icons_summary">Show colored app icon instead of monochrome icons</string>
@@ -85,4 +74,5 @@
     <!-- Status bar - icon blocklist -->
     <string name="status_bar_icons_title">Status bar icons</string>
     <string name="status_bar_icons_summary">Choose which status bar icons can be shown</string>
+
 </resources> 
