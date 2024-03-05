@@ -53,7 +53,7 @@
         <Preference
             android:title="@string/hz_about_superxorn"
             android:summary="@string/hz_about_superxorn_summary"
-            android:icon="@drawable/superxorn"
+            android:icon="@drawable-hz/superxorn"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -63,7 +63,7 @@
         <Preference
             android:title="@string/hz_about_steve"
             android:summary="@string/hz_about_steve_summary"
-            android:icon="@drawable/steve"
+            android:icon="@drawable-hz/steve"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -73,7 +73,7 @@
         <Preference
             android:title="@string/hz_about_jyr"
             android:summary="@string/hz_about_jyr_summary"
-            android:icon="@drawable/jyr"
+            android:icon="@drawable-hz/jyr"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -83,7 +83,7 @@
        <Preference
             android:title="@string/hz_about_komaru"
             android:summary="@string/hz_about_komaru_summary"
-            android:icon="@drawable/komaru"
+            android:icon="@drawable-hz/komaru"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -93,7 +93,7 @@
         <Preference
             android:title="@string/hz_about_kizziama"
             android:summary="@string/hz_about_kizziama_summary"
-            android:icon="@drawable/kizziama"
+            android:icon="@drawable-hz/kizziama"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -103,7 +103,7 @@
         <Preference
             android:title="@string/hz_about_hefatss"
             android:summary="@string/hz_about_hefatss_summary"
-            android:icon="@drawable/hefatss"
+            android:icon="@drawable-hz/hefatss"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -113,7 +113,7 @@
         <Preference
             android:title="@string/hz_about_dblenk"
             android:summary="@string/hz_about_dblenk_summary"
-            android:icon="@drawable/dblenk"
+            android:icon="@drawable-hz/dblenk"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -128,7 +128,7 @@
         <Preference
             android:title="@string/hz_about_zamkara"
             android:summary="@string/hz_about_zamkara_summary"
-            android:icon="@drawable/zamkara"
+            android:icon="@drawable-hz/zamkara"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -138,7 +138,7 @@
         <Preference
             android:title="@string/hz_about_binzet"
             android:summary="@string/hz_about_binzet_summary"
-            android:icon="@drawable/binzet"
+            android:icon="@drawable-hz/binzet"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -153,7 +153,7 @@
         <Preference
             android:title="@string/hz_about_hirokixd"
             android:summary="@string/hz_about_hirokixd_summary"
-            android:icon="@drawable/hirokixd"
+            android:icon="@drawable-hz/hirokixd"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -163,7 +163,7 @@
         <Preference
             android:title="@string/hz_about_unmoved"
             android:summary="@string/hz_about_unmoved_summary"
-            android:icon="@drawable/unmoved"
+            android:icon="@drawable-hz/unmoved"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -173,7 +173,7 @@
         <Preference
             android:title="@string/hz_about_ido"
             android:summary="@string/hz_about_ido_summary"
-            android:icon="@drawable/ido"
+            android:icon="@drawable-hz/ido"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -183,7 +183,7 @@
         <Preference
             android:title="@string/hz_about_hklknz"
             android:summary="@string/hz_about_hklknz_summary"
-            android:icon="@drawable/hklknz"
+            android:icon="@drawable-hz/hklknz"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
@@ -193,7 +193,7 @@
         <Preference
             android:title="@string/hz_about_dropto"
             android:summary="@string/hz_about_dropto_summary"
-            android:icon="@drawable/dropto"
+            android:icon="@drawable-hz/dropto"
             settings:layout="@layout/hzn_about">
             <intent
                 android:action="android.intent.action.VIEW"
