@@ -101,6 +101,16 @@
         </Preference>
 
         <Preference
+            android:title="@string/hz_about_mikazuuu07"
+            android:summary="@string/hz_about_mikazuuu07_summary"
+            android:icon="@drawable-hz/Mikazuuu07"
+            settings:layout="@layout/hzn_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/Mikazuuu07" />
+        </Preference>
+
+        <Preference
             android:title="@string/hz_about_hefatss"
             android:summary="@string/hz_about_hefatss_summary"
             android:icon="@drawable-hz/hefatss"
